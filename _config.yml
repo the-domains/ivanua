@@ -1,0 +1,28 @@
+name: iVanua
+favicon: null
+layout_spectrum: 0.5436466364189982
+typography_spectrum: 0.18955477443523705
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7014851532876492
+  lightness: 0.1429920787923038
+  saturation: 0.05392008204944432
+  rhythmicContrast: 0.12455089413560927
+purpose: []
